@@ -1,6 +1,6 @@
 # Instructions
 
-First, run after cloning the repo, run `npx yarn` to install dependencies (note that I use `yarn` commands and `npx` in all my instructions, but the application should run equally well without using `npx` and using `npm` instead of `yarn`). Then...
+First, after cloning this repo, run `npx yarn` to install dependencies (note that I use `yarn` commands and `npx` in all my instructions, but the application should run equally well without using `npx` and using `npm` instead of `yarn`). Then...
 
 ## To run the unittest suite:
 
